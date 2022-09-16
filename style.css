@@ -11,3 +11,14 @@ body {
     transform: translate(-50%, -50%);
     font-size: 18px;
   }
+
+  .top-bar {
+    height: 60px;
+    border-bottom: 1px solid rgb(26, 26, 26);
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
